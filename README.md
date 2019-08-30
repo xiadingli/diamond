@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS `group_info` (
 ```
 ## 3 下载源码
 ```
-git clone https://github.com/gzllol/diamond.git
+git clone https://github.com/xiadingli/diamond.git
 ```
 ## 4 打包
 1. 修改diamond-server/src/main/resources/system.properties文件，将diamond.server.addr的值换成Diamond服务器所在机器的ip地址
